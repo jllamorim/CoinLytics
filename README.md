@@ -1,2 +1,2 @@
-# CoinLytics.github.io
+# CoinLytics
 CoinLytics
